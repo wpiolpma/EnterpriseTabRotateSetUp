@@ -5,61 +5,61 @@
     "websites": [
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/a1ed97f9-82fe-479c-a8bd-25dcad0a1341/ReportSection?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/a1ed97f9-82fe-479c-a8bd-25dcad0a1341/ReportSection144b65e9467281d5c307?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/a1ed97f9-82fe-479c-a8bd-25dcad0a1341/ReportSection1a10f6c728bba83ad09b?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/a1ed97f9-82fe-479c-a8bd-25dcad0a1341/ReportSection13cdedc8d43a208ed509?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/cd11271e-cf9c-4017-9c39-c65ce6a5ddb4/ReportSection?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/cd11271e-cf9c-4017-9c39-c65ce6a5ddb4/ReportSection34a77e1beb08c58cddce?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/cd11271e-cf9c-4017-9c39-c65ce6a5ddb4/ReportSection4c678a267c18a733b33d?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/cd11271e-cf9c-4017-9c39-c65ce6a5ddb4/ReportSection3c0d7aadbb850deccd8b?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/cd11271e-cf9c-4017-9c39-c65ce6a5ddb4/ReportSection56def1c314ec0ae00379?chromeless=1",
             "zoom": 1
         },
         {
             "duration": 120,
-            "tabReloadIntervalSeconds": 150,
+            "tabReloadIntervalSeconds": 60,
             "url": "https://app.powerbi.com/groups/93ad30d7-f623-43de-84f1-44fddb4f7ac2/reports/cd11271e-cf9c-4017-9c39-c65ce6a5ddb4/ReportSection041500a6bed1dc35ea93?chromeless=1",
             "zoom": 1
         }
